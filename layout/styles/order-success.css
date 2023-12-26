@@ -1,0 +1,41 @@
+/* Add your styles here */
+.success-message {
+  text-align: center;
+  margin: 50px auto;
+  max-width: 600px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.success-message h1 {
+  margin-left: 0;
+  color: #27ae60;
+}
+
+.success-message img {
+  max-width: 100%;
+  height: auto;
+}
+
+.success-message p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0 0 20px 0;
+}
+
+.success-message a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.success-message a:hover {
+  background-color: #2980b9;
+}
