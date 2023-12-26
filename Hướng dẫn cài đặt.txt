@@ -1,0 +1,2 @@
+B1: Nếu chạy dự án trên localhost bằng Xampp thì đặt thư mục dự án trong thư mục htdocs của Xampp.
+B2: Vào phpmyadmin của Xampp tạo một CSDL tên là php, sau đó import file php.sql ở trong thư mục database của dự án để website có thể truy xuất cơ sở dữ liệu 
